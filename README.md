@@ -28,7 +28,7 @@
 #### 删帖率：
 ![image](imgs/delete_rate.png)
 
-2018前逐渐上升；2019年以来有所下降。
+2018前逐渐上升；2019年以来有所下降。总体平均1.41%。
 
 ## 统计数据来源
 https://github.com/martinwu42/pkuholebackup
